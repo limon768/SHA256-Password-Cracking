@@ -14,8 +14,8 @@ python SHA256.py <SHA256 hash>
 ## Requirement
 
 - install pwn
-    apt install pwn
+    * pip3 install pwn
 
 - edit the script and insert location of your wordlist
-    dictionary = <location/wordlist.txt>
+    * dictionary = <location/wordlist.txt>
 
