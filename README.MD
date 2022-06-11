@@ -11,3 +11,11 @@ python SHA256.py <SHA256 hash>
 
 ```
 
+## Requirement
+
+- install pwn
+    apt install pwn
+
+- edit the script and insert location of your wordlist
+    dictionary = <location/wordlist.txt>
+
